@@ -76,5 +76,5 @@ Features:
 
 ## 📫 Connect With Me
 
-LinkedIn: [[https://linkedin.com/in/your-profile](https://github.com/hayangithub)]
+LinkedIn: https://github.com/hayangithub
 
