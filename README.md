@@ -68,9 +68,9 @@ Features:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hayangithub&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hayangithub&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayangithub)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hayangithub&layout=compact&theme=tokyonight)
 
 ---
 
